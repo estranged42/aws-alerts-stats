@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Change Propagation Delays &amp; API Errors>\nWe continue to make progress towards restoring propagation for Route 53 Private DNS changes and resolving increased API errors for CreateHostedZone, DeleteHostedZone, AssociateVPCWithHostedZone, and DisassociateVPCFromHostedZone Route 53 API calls. A majority of our hosts have processed all updates, and we are working to accelerate recovery of the remaining hosts.",
+        "ts": "1557558214.006100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Change Propagation Delays &amp; API Errors>\nWe have restored propagation for Route 53 Private DNS changes. We continue to work on resolving increased API errors for CreateHostedZone, DeleteHostedZone, AssociateVPCWithHostedZone, and DisassociateVPCFromHostedZone Route 53 API calls.",
+        "ts": "1557564509.006200",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: Change Propagation Delays &amp; API Errors>\nBetween May 10 10:50 AM and May 11 2:18 AM PDT we experienced increased change propagation latency and elevated error rates for CreateHostedZone, DeleteHostedZone, AssociateVPCWithHostedZone and DisassociateVPCFromHostedZone calls to the Route 53 API. During this entire duration there were no issues serving DNS queries. The issue has been resolved and the service is now operating normally.",
+        "ts": "1557568110.006300",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

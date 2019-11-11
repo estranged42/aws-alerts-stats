@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Error Rates and Latencies>\nBetween 7:49AM PDT and 8:27AM PDT EC2 experienced elevated API errors for instance related APIs in a single Availability Zone in the US-EAST-1 region. Existing instances were not affected. The issue has been resolved and the service is operating normally.",
+        "ts": "1568390312.002000",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: [RESOLVED] Increased API Error Rates and Latencies>\nBetween 7:49AM PDT and 8:27AM PDT EC2 experienced elevated API errors for instance related APIs in a single Availability Zone in the US-EAST-1 region. Existing instances were not affected. The issue has been resolved and the service is operating normally.",
+        "ts": "1568391205.002100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

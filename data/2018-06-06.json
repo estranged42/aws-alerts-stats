@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Propagation Time>\nWe are investigating increased propagation times of DNS edits to the Route 53 DNS servers. This does not impact queries to existing DNS records.",
+        "ts": "1528292327.000589",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased Propagation Time>\nBetween 5:42 AM and 6:45 AM PDT, we experienced increased propagation times of DNS edits to the Route 53 DNS servers. This did not impact queries to existing DNS records. The issue has been resolved and the service is operating normally.",
+        "ts": "1528304331.000570",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Error Rates>\nWe are investigating increased error rates for API calls in the US-EAST-1 Region.",
+        "ts": "1528331944.000109",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased API Error Rates>\nBetween 5:05 PM and 5:26 PM PDT we experienced increased error rates for API calls in the US-EAST-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1528331944.000114",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

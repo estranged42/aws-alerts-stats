@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Error Rates>\nWe are investigating increased error rates and latencies for the AWS Management Console in the EU-WEST-1 Region.",
+        "ts": "1515593092.000037",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased Error Rates>\nBetween 5:03 AM and 5:53 AM PST we experienced increased error rates and latencies for the AWS Management Console in the EU-WEST-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1515593978.000628",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

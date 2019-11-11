@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Elevated Sign In Error Rates>\nWe are investigating reports that some users are unable to sign in or sign up to applications using Facebook identities with Amazon Cognito User Pools.",
+        "ts": "1527648225.000069",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Elevated Sign In Error Rates>\nRecently, some users were unable to sign in or sign up to applications using Facebook identities with Amazon Cognito User Pools. The issue has been resolved and the service is operating normally.",
+        "ts": "1527650925.000057",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

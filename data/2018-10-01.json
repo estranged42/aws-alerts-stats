@@ -1,0 +1,158 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Network connectivity>\nWe are investigating intermittent connectivity issues between the EU-CENTRAL-1 Region and other AWS Regions.",
+        "ts": "1538414930.000100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Network connectivity>\nWe can confirm intermittent issues for Internet and Inter-region network connectivity within the EU-CENTRAL-1 Region. We have mitigated the impact but continue to work towards full resolution.",
+        "ts": "1538414930.000200",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Network connectivity>\nBetween 9:21 AM and 9:31 AM PDT and between 9:41 AM and 9:51 AM PDT we experienced Internet connectivity issues for the EU-CENTRAL-1 Region and Inter-region connectivity issues between the EU-CENTRAL-1 Region and other AWS regions. The issue has been resolved and the service is operating normally.",
+        "ts": "1538417616.000100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Errors>\nWe are investigating increased error rates and latencies for the EC2 APIs in the US-WEST-2 Region.",
+        "ts": "1538425720.000100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Errors>\nWe continue to investigate increased error rates and latencies for the EC2 APIs and EC2 Management Console in the US-WEST-2 Region. Existing EC2 instances are not affected.",
+        "ts": "1538428427.000100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Launch Latencies>\nWe are investigating increased launch times for EC2 instances managed by Auto Scaling in the US-WEST-2 Region.",
+        "ts": "1538429329.000100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Error Rates>\nWe are investigating increased error rates for newly created functions in the US-WEST-2 Region. This includes functions created via the console as well as those created via the API or CLI.",
+        "ts": "1538429329.000200",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Provisioning Latencies>\nWe are investigating increased provisioning times for load balancers in the US-WEST-2 Region. Connectivity to existing load balancers is not affected.",
+        "ts": "1538429329.000300",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Delays in starting clusters>\nWe are investigating delays in starting clusters in the US-WEST-2 Region. Existing clusters are not affected.",
+        "ts": "1538430221.000100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Provisioning Error Rates>\nWe are investigating increased error rates and latencies for provisioning new WorkSpaces in the US-WEST-2 Region",
+        "ts": "1538432014.000100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Errors>\nWe are seeing recovery for the increased error rates and latencies affecting the EC2 APIs in the US-WEST-2 Region. Some requests may return a \"request limit exceeded\" error as we work toward full recovery. We recommend retrying failed requests.",
+        "ts": "1538432918.000100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased Provisioning Error Rates>\nBetween 1:00 PM and 3:00 PM PDT, we experienced increased error rates for new WorkSpaces provisioning in the US-WEST-2 Region. Existing WorkSpaces were unaffected. The issue has been resolved and the service is operating normally.",
+        "ts": "1538432918.000200",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Error Rates for Bucket Operations>\nWe have identified the cause of the increased error rates for customers creating and managing Amazon S3 buckets and are working towards resolution. Only a small subset of requests are affected and retries are working.",
+        "ts": "1570552403.005700",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased Error Rates for Bucket Operations>\nBetween 7:54 AM and 9:18 AM PDT, S3 customers saw elevated errors and latency for a subset of API requests to create and manage Amazon S3 buckets. The issue has been resolved and the service is operating normally.",
+        "ts": "1570553308.005800",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

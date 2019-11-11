@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Delayed WorkMail email delivery>\nWe are investigating increased WorkMail SMTP E-Mail processing time in the US-EAST-1 Region resulting in a delay of received or sent email to client applications.",
+        "ts": "1517346233.000258",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Delayed WorkMail email delivery>\nWe are continuing to investigate increased WorkMail SMTP E-Mail processing time in the US-EAST-1 Region, resulting in a delay of received or sent email to client applications.",
+        "ts": "1517349226.000329",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Delayed WorkMail email delivery>\nBetween 10:45 AM and 2:10 PM PST we experienced increased WorkMail SMTP E-Mail processing time in the US-EAST-1 Region, resulting in a delay of received or sent email to client applications. The issue has been resolved and the service is operating normally.",
+        "ts": "1517351942.000680",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    }
+]

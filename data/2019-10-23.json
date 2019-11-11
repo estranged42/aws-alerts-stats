@@ -1,0 +1,15 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: [RESOLVED] Further information regarding DNS resolution>\nOn October 22, 2019, we detected and then mitigated a DDoS (Distributed Denial of Service) attack against Route 53. Due to the way that DNS queries are processed, this attack was first experienced by many other DNS server operators as the queries made their way through DNS resolvers on the internet to Route 53. The attack targeted specific DNS names and paths, notably those used to access the global names for S3 buckets.\n\nBecause this attack was widely distributed, a small number of ISPs...",
+        "ts": "1571878106.000900",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

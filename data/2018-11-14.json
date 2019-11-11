@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Domain Validation Delays for New Public Certificates>\nWe are investigating delays in domain validations for new public certificates in the EU-WEST-1 Region.",
+        "ts": "1542221030.000500",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Validation and Issuance Delays for New Certificates>\nWe can confirm delays in validating domains for public certificates and delays issuing private certificates requested through ACM in the EU-WEST-1 Region. Existing certificates and previously deployed certificates are unaffected.",
+        "ts": "1542227330.000600",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Validation and Issuance Delays for New Certificates>\nWe have identified the root cause of delays in validating domains for public certificates and delays issuing private certificates requested through ACM in the EU-WEST-1 Region. We are beginning to see recovery and continue to work toward full resolution. Existing certificates and previously deployed certificates are unaffected.",
+        "ts": "1542227330.000700",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Validation and Issuance Delays for New Certificates>\nBetween 5:45 AM and 1:20 PM PST we experienced delays in validating domains for public certificates and delays issuing private certificates requested through ACM in the EU-WEST-1 Region. The issue has been resolved and the service is operating normally. Existing certificates and previously deployed certificates were unaffected.",
+        "ts": "1542236327.000900",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

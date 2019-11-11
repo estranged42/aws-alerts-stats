@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Investigating reports of DNS Resolution Issues>\nWe are investigating reports of problems resolving some DNS records hosted on Route53 using the third party DNS resolvers 8.8.8.8 and 8.8.4.4 . DNS resolution using other third-party DNS resolvers or DNS resolution from within EC2 instances using the default EC2 resolvers are not affected at this time.",
+        "ts": "1524572940.000475",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Investigating reports of DNS Resolution Issues>\nWe have identified the cause for an elevation in DNS resolution errors using third party DNS resolvers 8.8.8.8 \/ 8.8.4.4 and are working towards resolution. DNS resolution using other third-party DNS resolvers or DNS resolution from within EC2 instances using the default EC2 resolvers continues to work normally.",
+        "ts": "1524574735.000121",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Investigating reports of DNS Resolution Issues>\nBetween 4:05 AM PDT and 5:56 AM PDT, some customers may have experienced elevated errors resolving DNS records hosted on Route 53 using DNS resolvers 8.8.8.8 \/ 8.8.4.4 . The issue has been resolved and the service is operating normally.",
+        "ts": "1524575627.000519",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Error Rates>\nBetween 4:51 PM and 5:09 PM PDT we experienced increased error rates and latencies for the EC2 APIs in the US-WEST-2 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1524616737.000157",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "user": "UFD2461PW",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1547484924.001200",
+        "text": "<@UFD2461PW> has joined the channel",
+        "inviter": "U445F0XGW"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Elevated Lambda@Edge errors>\nWe are investigating elevated Lambda@Edge error rates that may be affecting some customers. CloudFront customers who do not have Lambda@Edge functions are unaffected by this issue.",
+        "ts": "1547502538.001300",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Elevated Lambda@Edge errors>\nBetween 11:40 AM PST and 2:07 PM PST, customers may have experienced elevated Lambda@Edge error rates. CloudFront customers who do not have Lambda@Edge functions were unaffected by this issue. The issue has been resolved and the service is operating normally.",
+        "ts": "1547504325.001400",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

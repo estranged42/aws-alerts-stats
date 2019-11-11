@@ -1,0 +1,34 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Error Rates>\nWe are investigating increased error rates for all APIs calls in the US-EAST-1 Region.",
+        "ts": "1522085036.000599",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Error Rates>\nWe are currently investigating increased error rates to Elastic Beanstalk APIs in the US-EAST-1 region.",
+        "ts": "1522085036.000631",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased API Error Rates>\nBetween 9:42 AM and 10:30 AM PDT we experienced increased error rates for API calls in the US-EAST-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1522086830.000423",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased API Error Rates>\nBetween 9:42 AM and 10:30 AM PDT we experienced increased error rates to Elastic Beanstalk APIs in the US-EAST-1 region. The issue has been resolved and the service is operating normally.",
+        "ts": "1522086830.000449",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Delays in propagating certain configuration changes to a few CloudFront Edge locations>\nWe are investigating longer than usual propagation times to propagate certain configuration changes to a few of our edge locations: the creation and deletion of CloudFront distributions and the updating of certificates for a CloudFront distribution. All other CloudFront configuration changes are propagating normally. End-user requests for content from our edge locations are not affected by this issue and are being served normally.",
+        "ts": "1528895928.000010",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Delays in propagating certain configuration changes to a few CloudFront Edge locations>\nBetween 3:25 AM and 6:45 AM PDT, CloudFront experienced longer than usual propagation times to propagate certain configuration changes to a few of our edge locations. This issue has been resolved and the service is operating normally. During this time, end user requests for content from our edge locations were not affected by this issue and were being served normally.",
+        "ts": "1528898621.000899",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Error Rates>\nWe are investigating increased error rates and latencies for ELB APIs in the US-EAST-1 Region. Traffic to existing load balancers is not affected.",
+        "ts": "1528908528.000256",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: Increased API Error Rates>\nBetween 8:59 AM and 9:58 AM PDT we experienced increased error rates and latencies for the ELB APIs in the US-EAST-1 Region. The issue affected load balancer provisioning and target registration for Application and Network Load Balancer. Classic Load Balancer, as well as traffic to all existing load balancers, was not affected. The issue has been resolved and the service is operating normally.",
+        "ts": "1528910328.000368",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

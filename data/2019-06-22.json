@@ -1,0 +1,18 @@
+[
+    {
+        "user": "UKSNQLD1S",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1561229150.000500",
+        "text": "<@UKSNQLD1S> has joined the channel",
+        "inviter": "U48TF1JMS"
+    },
+    {
+        "user": "UKSNQLD1S",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1561229150.000600",
+        "text": "<@UKSNQLD1S> has joined the channel",
+        "inviter": "U48TF1JMS"
+    }
+]

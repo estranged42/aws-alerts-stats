@@ -1,0 +1,18 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Error Rates>\nWe are investigating increased error rates for Autoscaling API calls in the US-GOV-WEST-1 Region.",
+        "ts": "1518122335.000112",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased Error Rates>\nBetween 11:43 AM and 12:48 PM PDT we experienced increased error rates for Autoscaling API calls in the US-GOV-WEST-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1518124138.000528",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    }
+]

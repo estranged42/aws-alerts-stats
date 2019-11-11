@@ -1,0 +1,27 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Hello, I'm slingrbot, thank you for inviting me.",
+        "ts": "1561334024.000800",
+        "username": "SLINGR ToDone",
+        "bot_id": "BKVBDFGF8",
+        "attachments": [
+            {
+                "callback_id": "Channel_Button",
+                "fallback": "You are unable to configure from here.",
+                "id": 1,
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "Add Channel Note",
+                        "text": "Add Channel Note",
+                        "type": "button",
+                        "value": "Add_Channel_Note_C7KQX72DN",
+                        "style": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

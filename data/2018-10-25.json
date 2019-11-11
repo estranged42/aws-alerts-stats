@@ -1,0 +1,67 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Latencies>\nWe are investigating an increased latency on administrative APIs. Create, Delete, List, Get, and Update API actions may be impacted in multiple regions. Other AWS services whose features require IAM roles will also be impacted. User authentications and authorizations are not impacted.",
+        "ts": "1540487618.000100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Latencies>\nWe continue to investigate increased latency on administrative APIs. Create, Delete, List, Get, and Update API actions may be impacted in multiple regions. Other AWS services like AWS CloudFormation and AWS Lambda that use IAM roles may also be impacted. User authentications and authorizations are not impacted.",
+        "ts": "1540489421.000100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Latencies>\nWe have identified the root cause and are working towards a resolution for increased latency on administrative APIs. Create, Delete, List, Get, and Update API actions may be impacted in multiple regions. Other AWS services like AWS CloudFormation and AWS Lambda that use IAM roles may also be impacted. User authentications and authorizations are not impacted.",
+        "ts": "1540493020.000100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Latencies>\nWe are seeing improvement in the latency for administrative APIs (Create, Delete, List, Get, and Update). We are continuing to work towards a full resolution. User authentications and authorizations are not impacted.",
+        "ts": "1540497230.000100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased API Latencies>\nBetween 08:28 AM and 12:31 PM PDT, we experienced increased latency on administrative APIs. Create, Delete, List, Get, and Update API actions were impacted in multiple regions. User authentications and authorizations were not impacted. The issue has been resolved, and the service is operating normally.",
+        "ts": "1540498123.000100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

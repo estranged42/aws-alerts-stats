@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased DB Instance Create Times>\nWe are investigating increased DB instance creation times in the US-WEST-2 Region.",
+        "ts": "1516845837.000131",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased DB Instance Create Times>\nWe have identified the problem with increased DB instance creation times in the US-WEST-2 Region and are working towards a resolution.",
+        "ts": "1516848545.000297",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased DB Instance Create Times>\nBetween 3:20 PM and 7:05 PM PST, we experienced increased DB instance creation times in the US-WEST-2 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1516852150.000179",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    }
+]

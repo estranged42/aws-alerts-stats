@@ -1,0 +1,15 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: [RESOLVED] Network Connectivity>\nBetween 5:13 AM and 5:53 AM PDT we experienced an Internet connectivity issue with an external provider outside of our network which affected traffic from some end-user networks and the SA-EAST-1 Region. Connectivity to instances and services within the Region was not impacted by the event. The issue has been resolved and connectivity has been restored.",
+        "ts": "1524749632.000725",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

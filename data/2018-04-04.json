@@ -1,0 +1,66 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Error Rates>\nWe are investigating increased faults for CloudWatch Logs APIs in the US-WEST-2 Region. Log events and metrics may be delayed. Alarms may transition into \"INSUFFICIENT_DATA\" state if set on delayed metrics.",
+        "ts": "1522894438.000106",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Error Rates and Latencies>\nWe are investigating elevated PutRecord API latencies and faults for Kinesis Data Streams in the US-WEST-2 Region.",
+        "ts": "1522896229.000159",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Error Rates>\nWe can confirm increased faults for CloudWatch Logs APIs and some delayed log events in the US-WEST-2 Region. We are actively working to resolve the issue.",
+        "ts": "1522898929.000143",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Error Rates and Latencies>\nWe can confirm elevated latencies and faults for Kinesis Data Streams PutRecord API in the US-WEST-2 Region. We are actively working to resolve the issue.",
+        "ts": "1522898929.000148",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Error Rates>\nWe can confirm partial recovery of API faults and reduced delay of log events in the US-WEST-2 Region. We have identified the root cause and are actively working to resolve the issue.",
+        "ts": "1522906130.000050",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Error Rates and Latencies>\nWe can confirm partial recovery of faults for Kinesis Data Streams PutRecord API in the US-WEST-2 Region. We have identified the root cause and are actively working to resolve the issue.",
+        "ts": "1522906130.000054",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased API Error Rates>\nBetween 5:56 PM and 10:15 PM PDT, some customers experienced increased delays for CloudWatch log events in the US-WEST-2 Region. Metrics filtered from those log events were delayed, and CloudWatch alarms on delayed metrics may have transitioned into INSUFFICIENT_DATA state. The issue has been resolved and the service is operating normally.",
+        "ts": "1522907944.000010",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased API Error Rates and Latencies>\nBetween 5:56 PM and 10:15 PM PDT we experienced increased API latencies and error rates in the US-WEST-2 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1522907944.000022",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    }
+]

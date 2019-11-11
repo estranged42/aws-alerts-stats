@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Delayed Log Event Processing for Metric Filter Extraction and Subscriptions>\nWe are investigating increased delays for CloudWatch log event processing for metric filter extraction and log subscriptions in the US-EAST-1 Region. CloudWatch alarms may transition into \"INSUFFICIENT_DATA\" state if set on metrics extracted using log filters.",
+        "ts": "1509406453.000015",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Delayed Log Event Processing for Metric Filter Extraction and Subscriptions>\nBetween 3:23 PM and 4:48 PM PDT, some customers experienced increased delays for CloudWatch log event processing for metric filter extraction and log subscriptions in the US-EAST-1 Region. Metrics extracted using Logs Filter Patterns were delayed, and CloudWatch alarms on those delayed metrics transitioned into INSUFFICIENT_DATA state. We have resolved the issue. Delayed metrics and log events for subscriptions are in the process of backfilling. The service is operating normally.",
+        "ts": "1509408255.000180",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

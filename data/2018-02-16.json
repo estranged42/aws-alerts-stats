@@ -1,0 +1,10 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Invoke API Error Rates>\nBetween 4:03 PM and 4:57 PM PST we experienced increased API error rates and latencies in the US-GOV-WEST-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1518832141.000079",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    }
+]

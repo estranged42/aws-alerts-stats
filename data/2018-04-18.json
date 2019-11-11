@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased instance registration times>\nWe are investigating increased provisioning and back-end instance registration times for Classic and Application Load Balancers in the US-EAST-1 Region. Provisioning and back-end registration times for Network Load Balancers are not affected. Connectivity to all existing load balancers is not affected.",
+        "ts": "1524047333.000172",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased instance registration times>\nWe have identified the root cause of the issue affecting Classic and Application Load Balancers in the US-EAST-1 Region. The subsystem responsible for the provisioning and registration of back-end instances and targets is experiencing delays in workflow processing and we're working to resolve the issue. Provisioning and back-end instance registration times for Network Load Balancers are not affected. Connectivity to all existing load balancers is not affected.",
+        "ts": "1524049731.000408",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased instance registration times>\nWe have resolved the issue affecting Classic and Application Load Balancers in the US-EAST-1 Region. The subsystem responsible for the provisioning and registration of back-end instances is now operating normally but is working through a backlog of load balancer events for affected load balancers. Provisioning and back-end instance registration times for Network Load Balancers are not affected. Connectivity to all existing load balancers is not affected.",
+        "ts": "1524051537.000063",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased instance registration times>\nBetween 2:19 AM and 4:15 AM PDT we experienced increased provisioning and back-end instance registration times for Classic and Application Load Balancers in the US-EAST-1 Region. Provisioning and back-end instance registration times for Network Load Balancers were not affected. Connectivity to all existing load balancers was not affected. The issue has been resolved and the service is operating normally.",
+        "ts": "1524052436.000425",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

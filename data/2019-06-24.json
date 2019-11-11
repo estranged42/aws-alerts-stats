@@ -1,0 +1,132 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: AWS Site-to-Site VPN Connectivity Issues>\nWe are investigating network connectivity issues affecting some AWS Site-to-Site VPN customers in the AP-SOUTHEAST-1 Region.",
+        "ts": "1561415002.000900",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: AWS Site-to-Site VPN Connectivity Issues>\nWe are investigating network connectivity issues affecting some AWS Site-to-Site VPN customers in the AP-SOUTHEAST-1 Region.",
+        "ts": "1561415903.001000",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service degradation: AWS Site-to-Site VPN Connectivity Issues>\nWe have identified the root cause of the issue affecting network connectivity for some AWS Site-to-Site VPN connections within the AP-SOUTHEAST-1 Region. Connectivity to and from the Internet, within Amazon VPC, and over DirectConnect is not affected by this issue.",
+        "ts": "1561415904.001100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service degradation: AWS Site-to-Site VPN Connectivity Issues>\nWe can confirm network connectivity issues for some AWS Site-to-Site VPN connections within the AP-SOUTHEAST-1 Region and continue to work towards resolution. Connectivity to and from the Internet, within Amazon VPC, and over DirectConnect is not affected by this issue.",
+        "ts": "1561418602.001200",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service degradation: AWS Site-to-Site VPN Connectivity Issues>\nWe can confirm network connectivity issues for existing AWS Site-to-Site VPN connections within the AP-SOUTHEAST-1 Region and are starting to see recovery. Newly created AWS Site-to-Site VPN connections within the AP-SOUTHEAST-1 Region are not affected by this issue. Connectivity to and from the Internet, within Amazon VPC, and over DirectConnect is not affected by this issue.",
+        "ts": "1561420403.001300",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service degradation: AWS Site-to-Site VPN Connectivity Issues>\nWe continue to work towards full recovery of the network connectivity issues affecting VPN connections in the AP-SOUTHEAST-1 Region. While VPN connections are starting to recover, for customers that are able to reconfigure client VPN appliances, creating a new VPN endpoint will resolve the network connectivity issue. Connectivity to and from the Internet, within Amazon VPC, and over DirectConnect is not affected by this issue.",
+        "ts": "1561424904.001400",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service degradation: AWS Site-to-Site VPN Connectivity Issues>\nWe continue to work towards full recovery of the network connectivity issues affecting VPN connections in the AP-SOUTHEAST-1 Region. Connectivity to and from the Internet, within Amazon VPC, and over DirectConnect is not affected by this issue.",
+        "ts": "1561429403.001500",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service degradation: AWS Site-to-Site VPN Connectivity Issues>\nSome VPN connections have been restored. We continue to work towards full recovery.",
+        "ts": "1561436603.001600",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: AWS Site-to-Site VPN Connectivity Issues>\nWe have now restored connectivity for the majority of the primary tunnels associated with all affected VPN connections in the AP-SOUTHEAST-1 Region. At this stage, VPN connections should no longer be experiencing connectivity issues. We continue to work on restoring connectivity for all secondary tunnels.",
+        "ts": "1561439301.001700",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: AWS Site-to-Site VPN Connectivity Issues>\nWhile the majority of VPN tunnels are once again able to establish a connection, route updates are not yet propagating for all affected VPN connections in the AP-SOUTHEAST-1 Region. For affected tunnels, this will result in network connectivity issues which we continue to work on resolving.",
+        "ts": "1561442004.001800",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: [RESOLVED]  Increased Console and API error rates>\nBetween 12:49 AM and 1:04 AM PDT customers using the Route 53 console and API experienced an elevated error rate. The issue has been resolved and both the Route 53 console and API are operating normally. Route 53 DNS and health checks were both operating normally during this time.",
+        "ts": "1533546242.000084",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Console Error Rates>\nWe are investigating increased error rates when loading the AWS Management Console.",
+        "ts": "1556211507.001200",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Console Error Rates>\nWe are investigating increased error rates when loading the AWS Management Console.",
+        "ts": "1556211507.001300",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service degradation: Increased Console Error Rates>\nWe can confirm impact to the AWS Management Console in US-EAST-1 specific to the \/home link. AWS services are not impacted, and access to service-specific consoles is working normally. Please use alternate link: <https:\/\/us-west-2.console.aws.amazon.com\/ec2\/v2\/home|https:\/\/us-west-2.console.aws.amazon.com\/ec2\/v2\/home>",
+        "ts": "1556213307.001400",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Single Sign-On>\nWe can confirm impact to the AWS SSO user portal specific to single-sign on to the AWS Management Console. SAML assertions are not impacted but users may be directed to a website unavailable page when authenticating with SAML. Please use alternate link: <https:\/\/us-west-2.console.aws.amazon.com\/ec2\/v2\/home|https:\/\/us-west-2.console.aws.amazon.com\/ec2\/v2\/home> after authenticating. There is no impact to application sign-in.",
+        "ts": "1556216914.001500",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service degradation: Increased Console Error Rates>\nWe continue to work towards resolution in US-EAST-1 for issues specific to the \/home Management Console link. AWS services are not impacted, and access to service-specific consoles is working normally. Please use alternate link: <https:\/\/us-east-1.console.aws.amazon.com\/ec2\/v2\/home|https:\/\/us-east-1.console.aws.amazon.com\/ec2\/v2\/home> and select a service from the Services menu above.",
+        "ts": "1556217820.001600",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased Console Error Rates>\nBetween 9:11 AM and 12:13 PM PDT we experienced increased error rates for the AWS Management Console in the US-EAST-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1556220518.001700",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Single Sign-On>\nWe continue to work towards resolution for issues specific to the AWS Management Console. For SSO customers who are seeing an error message while attempting to sign into AWS console through the AWS SSO User Portal, clicking on “login again” provides access",
+        "ts": "1556220518.001800",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Single Sign-On>\nBetween 9:11 AM and 12:13 PM PDT we experienced increased error rates for the AWS Management Console in the US-EAST-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1556220518.001900",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

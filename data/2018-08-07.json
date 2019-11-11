@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Instance launch errors and connectivity issues>\nBetween 1:06 PM and 1:33 PM PDT we experienced increased error rates for new instance launches and intermittent network connectivity issues for some running instances in a single Availability Zone in the US-EAST-1 Region. The issue has been resolved and the service is operating normally",
+        "ts": "1533675551.000401",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: SNSのエラーレート上昇について | Elevated error rates for SNS>\n東京リージョンにおきまして、現在SNS Publish APIのエラーレートが上昇しており、原因を調査しております。| We are currently investigating elevated error rates for the SNS Publish API in the AP-NORTHEAST-1 Region.",
+        "ts": "1533696527.000263",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: エラーレートの上昇について | Elevated Error Rates>\n東京リージョンにおきまして、AWS マネジメントコンソールのエラーレートが上昇しており、原因を調査しております。| We are investigating elevated error rates for the AWS Management Console in the AP-NORTHEAST-1 Region.",
+        "ts": "1533697429.000042",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] エラーレートの上昇について | Elevated Error Rates>\n東京リージョンにおきまして、日本時間 2018年8月8日 10:47-12:08の間、SNS Publish APIのエラーレートが上昇しておりました。事象は復旧し、サービスは正常に稼働しております。| Between 6:47 PM and 8:08 PM PDT we experienced elevated error rates for the SNS Publish API in the AP-NORTHEAST-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1533699227.000104",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

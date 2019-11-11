@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Launch Error Rates>\nWe are investigating increased error rates for new launches of C5 and M5 instance types in a single Availability Zone in the US-WEST-2 Region.",
+        "ts": "1519929536.000241",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Launch Error Rates>\nWe can confirm increased error rates for new launches of C5 and M5 instance types in a single Availability Zone in the US-WEST-2 Region. We have identified the root cause and are working toward full resolution. In the interim, we recommend customers launch their instances to an alternate Availability Zone.",
+        "ts": "1519930431.000626",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased Launch Error Rates>\nWe have resolved the issue affecting new launches of C5 and M5 instance types in a single Availability Zone in the US-WEST-2 Region. Existing instances were not affected. The issue has been resolved and the service is operating normally.",
+        "ts": "1519933141.000471",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Elevated DNS Resolution Errors>\nBetween 2:41 and 2:56 PM PST some EC2 instances experienced elevated DNS resolution errors in the EU-WEST-1 Region. As a result of this, some AWS services experienced elevated errors and increased latency. The issue has been resolved and the service is operating normally.",
+        "ts": "1519950267.000042",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Elevated DNS Resolution Errors>\nBetween 2:41 and 2:56 PM PST some EC2 instances experienced elevated DNS resolution errors in the EU-CENTRAL-1 Region. As a result of this, some AWS services experienced elevated errors and increased latency. The issue has been resolved and the service is operating normally.",
+        "ts": "1519950267.000060",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    }
+]

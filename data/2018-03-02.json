@@ -1,0 +1,10 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Network Connectivity>\nWe are investigating increased packet loss possibly impacting some AWS Direct Connect customers in the US-EAST-1 Region.",
+        "ts": "1520005145.000782",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    }
+]

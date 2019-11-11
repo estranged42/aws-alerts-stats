@@ -1,0 +1,145 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Network Connectivity>\nWe are investigating network connectivity issues for some instances within the US-EAST-1 Region.",
+        "ts": "1539804533.000100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Network Connectivity>\nBetween 11:27 AM and 11:28 AM some instances experienced connectivity issues for network traffic between Availability Zones within the US-EAST-1 Region. The issue was automatically mitigated and we continue to monitor all affected instances.",
+        "ts": "1539805436.000100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased provisioning and registration times>\nWe are investigating increased provisioning and back-end target registration times for load balancers within the US-EAST-1 Region. Connectivity to existing load balancers is not affected.",
+        "ts": "1539806336.000100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Network Connectivity>\nBetween 11:27 AM and 11:28 AM PDT some instances experienced connectivity issues for network traffic between Availability Zones within the US-EAST-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1539808441.000100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Network Connectivity>\nBetween 11:28 AM and 11:31 AM PDT some Multi-AZ and Single-AZ RDS instances experienced network connectivity issues in the US-EAST-1 Region. All affected Multi-AZ RDS instances failed over to a second Availability Zone, which restored connectivity. The majority of the Single-AZ RDS instances have recovered and we continue to work on restoring connectivity to a small number of remaining Single-AZ RDS instances.",
+        "ts": "1539808441.000200",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Network Connectivity>\nBetween 11:28 AM and 11:31 AM PDT some Multi-AZ and Single-AZ RDS instances experienced network connectivity issues in the US-EAST-1 Region. All affected Multi-AZ RDS instances failed over to a second Availability Zone, which restored connectivity. The remaining Single-AZ RDS instances have now restored connectivity. The issue has been resolved and the service is operating normally.",
+        "ts": "1539811133.000100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Error Rates>\nWe are experiencing increased API error rates and delayed group scaling in the US-EAST-1 Region. Connectivity to existing EC2 Instances is not affected.",
+        "ts": "1539811133.000200",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased provisioning and registration times>\nWe continue to work on resolving the increased provisioning and back-end target registration times for Classic and Application Load Balancers within the US-EAST-1 Region. Provisioning and back-end target registration times are not affected for Network Load Balancers. Connectivity to all load balancers is not affected.",
+        "ts": "1539817737.000100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased provisioning and registration times>\nBeginning at 11:50 AM PDT we experienced increased provisioning times for Classic and Application Load Balancers within the US-EAST-1 Region. At 12:40 PM PDT, registration times for new back-end targets began to increase. At 2:05 PM PDT, both load balancer provisioning and back-end target registration latencies began to recover. By 2:25 PM PDT, back-end target registration times had returned to normal levels and by 2:44 PM PDT load balancer provisioning had fully recovered. Connectivity to...",
+        "ts": "1539817737.000200",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Error Rates>\nWe have identified the root cause of the increased API error rates and delayed group scaling in the US-EAST-1 Region. We are beginning to see recovery and continue to work toward full resolution.",
+        "ts": "1539817737.000300",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased Error Rates>\nBetween 11:28 AM and 4:05 PM PDT we experienced increased API error rates and delayed group scaling in the US-EAST-1 Region. Connectivity to existing EC2 Instances is not affected. The issue has been resolved and the service is operating normally.",
+        "ts": "1539818028.000100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

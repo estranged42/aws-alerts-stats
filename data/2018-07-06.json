@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Availability>\nWe are investigating meeting availability issues in the US-EAST-1 Region.",
+        "ts": "1530900532.000036",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/cfr.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Availability>\nWe continue to investigate meeting availability issues in the US-EAST-1 Region.",
+        "ts": "1530902333.000325",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/cfr.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Availability>\nBetween 10:24 AM PDT and 11:31 AM PDT, we experienced meeting availability issues in the US-EAST-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1530904134.000162",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/cfr.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

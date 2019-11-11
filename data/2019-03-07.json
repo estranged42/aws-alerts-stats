@@ -1,0 +1,15 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: [RESOLVED] Increased Launch Failures>\nBetween 7:10 AM and 8:20 AM PST, new launches of EC2 instances were erroneously disabled in a single Availability Zone within the US-EAST-1 Region. This caused new launches to fail when targeting the affected Availability Zone and also resulted in health checks reporting instances in the affected Availability Zone as impaired. Customers with Auto Scaling Groups configured to replace instances on impaired EC2 health checks may have had instances replaced as a result of this issue. The...",
+        "ts": "1551978530.000300",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

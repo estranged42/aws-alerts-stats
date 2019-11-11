@@ -1,0 +1,34 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Error Rates and Latencies>\nWe are investigating increased API error rates and latencies for Instance and AMI related API calls in the US-EAST-1 Region.",
+        "ts": "1520934832.000010",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased API Error Rates and Latencies>\nBetween March 12 9:00 PM and March 13 2:21 AM PDT we experienced increased error rates and latencies for Instance and AMI related API calls in the US-EAST-1 Region. Existing running instances were unaffected. The issue has been resolved and the service is operating normally.",
+        "ts": "1520937531.000215",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: DNS Resolution Issues>\nWe are investigating intermittent DNS resolution issues in a single Availability Zone in the SA-EAST-1 Region.",
+        "ts": "1520976847.000618",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] DNS Resolution Issues>\nBetween 1:41 PM and 2:30 PM PDT we experienced intermittent DNS resolution issues in a single Availability Zone in the SA-EAST-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1520977733.000558",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Network Connectivity>\nWe continue to work towards resolving the increased packet loss impacting AWS Direct Connect connectivity to the US-EAST-1 Region. Direct Connect connections from the Equinix DC1 - DC6 and DC10 - DC12, Ashburn, VA and CoreSite VA1 and VA2, Reston, VA locations are affected by this issue.",
+        "ts": "1520584732.000160",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Network Connectivity>\nConnections in the CoreSite VA1 and VA2 (Reston, VA) location, and some connections in the Equinix DC1 - DC6 and DC10 - DC12 (Ashburn, VA) location are inactive. Inactive connections are not receiving routes advertised from Direct Connect routers. We are now working to restore service on these Direct Connect connections. The AWS VPN service is operating normally and may be an alternative for some workloads.",
+        "ts": "1520584732.000166",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Network Connectivity>\nBetween 6:23 AM and 10:26 AM PST on March 2, 2018, some customers in the CoreSite VA1 and VA2 (Reston, VA) Direct Connect location and the Equinix DC1 - DC6 and DC10 - DC12 (Ashburn, VA) Direct Connect location experienced a connection loss to the US-EAST-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1520584732.000172",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Network Connectivity>\nBetween 6:23 AM and 6:32 AM PST and between 8:11 AM and 8:21 AM PST, customers in the US-EAST-1 Region may have experienced Internet connectivity issues. The root cause of this issue was a loss of power in one of our network peering facilities. Our network is designed to be fully redundant with multiple independent peering facilities in every region. Some customers experienced elevated latency and packet loss while the network rerouted affected traffic to these unaffected network peering...",
+        "ts": "1520584732.000181",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Push Notification Latency>\nWe are investigating increased push notification latency in the US-EAST-1 Region. This is affecting meeting rings as well as chat notifications.",
+        "ts": "1520584732.000197",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Push Notification Latency>\nWe have identified the root cause of increased push chat notification and meeting ring latency in the US-EAST-1 Region and continue to work toward resolution.",
+        "ts": "1520584732.000203",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Push Notification Latency>\nBetween 1:10 PM and 5:02 PM PST we experienced increased latencies for push chat notification and meeting rings in the US-EAST-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1520584732.000206",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    }
+]

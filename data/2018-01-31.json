@@ -1,0 +1,18 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased API Error Rates>\nBetween 7:41 AM and 8:04 AM PDT we experienced increased API error rates in the AP-SOUTH-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1517417026.001016",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: [RESOLVED] Increased API Error Rates>\nBetween 7:41 AM and 8:04 AM PST we experienced increased API error rates in the AP-SOUTH-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1517417933.000856",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    }
+]

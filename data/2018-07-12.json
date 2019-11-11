@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Propagation Time>\nWe are investigating increased propagation times of DNS edits to the Route 53 DNS servers. This does not impact queries to existing DNS records.",
+        "ts": "1531396744.000319",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/cfr.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Propagation Time>\nWe can confirm increased propagation times of DNS edits to the Route 53 DNS servers and continue to work towards resolution. This does not impact queries to existing DNS records.",
+        "ts": "1531398534.000216",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/cfr.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Propagation Time>\nPropagation of DNS edits for Route 53 records in Public Hosted Zones has recovered. We are still working towards recovery for DNS edits for records in Route 53 Private Hosted Zones.",
+        "ts": "1531401233.000158",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/cfr.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased Propagation Time>\nBetween 4:00 AM and 6:14 AM PDT we experienced increased propagation times of DNS edits to a single Route 53 edge location. This does not impact queries to existing DNS records. The issue has been resolved and the service is operating normally.",
+        "ts": "1531403033.000496",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/cfr.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

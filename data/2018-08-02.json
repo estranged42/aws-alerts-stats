@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: [解決済み]SQSでのコネクションリセット及びソケットタイムアウトの発生 | [RESOLVED] Connection reset and socket timeout for SQS>\n日本時間 2018\/08\/02 17:30 から 17:55 にかけて、東京リージョンの SQS においてコネクションリセット及びソケットタイムアウトの発生率が上昇しました。問題は既に解消し、現在サービスは正常に稼働しております。| Between 1:30AM and 1:55 AM PDT we experienced connection resets and socket timeout rates in the AP-NORTHEAST-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1533209332.000129",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [解決済み]SQSでのコネクションリセット及びソケットタイムアウトの発生 | [RESOLVED] Connection reset and socket timeout for SQS>\n日本時間 2018\/08\/02 17:30 から 17:55 にかけて、東京リージョンの SQS においてコネクションリセット及びソケットタイムアウトの発生率が上昇しました。問題は既に解消し、現在サービスは正常に稼働しております。| Between 1:30AM and 1:55 AM PDT we experienced connection resets and socket timeout rates in the AP-NORTHEAST-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1533209332.000141",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

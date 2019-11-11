@@ -1,0 +1,197 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Instances unavailable>\nWe are investigating connectivity issues affecting some instances in a single Availability Zone in the US-EAST-1 Region.",
+        "ts": "1567258711.000300",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Instances unavailable>\nWe are investigating connectivity issues affecting some instances in a single Availability Zone in the US-EAST-1 Region.",
+        "ts": "1567260503.000400",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Instances unavailable>\nWe can confirm that some instances are impaired and some EBS volumes are experiencing degraded performance within a single Availability Zone in the US-EAST-1 Region. Some EC2 APIs are also experiencing increased error rates and latencies. We are working to resolve the issue.",
+        "ts": "1567260503.000500",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Connectivity Issues>\nWe are investigating connectivity issues in a single Availability Zone in the US-EAST-1 Region.",
+        "ts": "1567260503.000600",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Connectivity Issues>\nWe are investigating connectivity issues affecting some single-AZ RDS instances in a single Availability Zone in the US-EAST-1 Region.",
+        "ts": "1567261410.000700",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Instances unavailable>\nWe can confirm that some instances are impaired and some EBS volumes are experiencing degraded performance within a single Availability Zone in the US-EAST-1 Region. We are investigating increased error rates for new launches within the same Availability Zone. We are working to resolve the issue.",
+        "ts": "1567263208.000800",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Connectivity Issues>\nWe can confirm that some WorkSpaces instances are impaired within a single Availability Zone in the US-EAST-1 Region. We are working to resolve the issue.",
+        "ts": "1567264107.000900",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Instances unavailable>\nWe are starting to see recovery for instance impairments and degraded EBS volume performance within a single Availability Zone in the US-EAST-1 Region. We are also starting to see recovery of EC2 APIs. We continue to work towards recovery for all affected EC2 instances and EBS volumes.",
+        "ts": "1567265010.001000",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Connectivity Issues>\nWe are starting to see recovery of WorkSpaces instance impairments within a single Availability Zone in the US-EAST-1 Region. We continue to work towards recovery for all affected WorkSpaces instances.",
+        "ts": "1567265907.001100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Connectivity Issues>\nWe are starting to see recovery for connectivity issues impacting some single-AZ instances in a single Availability Zone in the US-EAST-1 Region. We continue to work towards recovery for all impacted instances.",
+        "ts": "1567265908.001200",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Instances unavailable>\nRecovery is in progress for instance impairments and degraded EBS volume performance within a single Availability Zone in the US-EAST-1 Region. We continue to work towards recovery for all remaining affected instances and EBS volumes.",
+        "ts": "1567267710.001300",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Instances unavailable>\nWe want to give you more information on progress at this point, and what we know about the event. At 4:33 AM PDT one of 10 datacenters in one of the 6 Availability Zones in the US-EAST-1 Region saw a failure of utility power. Backup generators came online immediately, but for reasons we are still investigating, began quickly failing at around 6:00 AM PDT. This resulted in 7.5% of all instances in that Availability Zone failing by 6:10 AM PDT. Over the last few hours we have recovered most...",
+        "ts": "1567274009.001400",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Instances Unavailable>\nAt 4:33 AM PDT one of ten data centers in one of the six Availability Zones in the US-EAST-1 Region saw a failure of utility power. Our backup generators came online immediately but began failing at around 6:00 AM PDT. This impacted 7.5% of EC2 instances and EBS volumes in the Availability Zone. Power was fully restored to the impacted data center at 7:45 AM PDT. By 10:45 AM PDT, all but 1% of instances had been recovered, and by 12:30 PM PDT only 0.5% of instances remained impaired. Since...",
+        "ts": "1567283906.001500",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Connectivity Issues>\nBeginning at 6:15 AM PDT, we experienced connectivity issues affecting some WorkSpaces in a single Availability Zone in the US-EAST-1 Region. By 12:30 PM, the majority of the impaired WorkSpaces had been recovered. A small number of the impaired WorkSpaces were hosted on hardware which may have been adversely affected by the loss of power. We continue to work to recover all affected WorkSpaces. Some of the remaining impacted WorkSpaces may require action from customers and we will be...",
+        "ts": "1567285710.001600",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Connectivity Issues>\nBeginning at 5:40 AM PDT, some RDS single-AZ instances experienced connectivity issues within a single Availability Zone in the US-EAST-1 Region. By 11:55 AM, 0.9% of instances in the affected AZ were still experiencing connectivity issues. We continue to work to recover all affected instances and volumes and will be communicating to the remaining impacted customers via the Personal Health Dashboard. For customers who need immediate recovery, we recommend performing a &lt;a...",
+        "ts": "1567286603.001700",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

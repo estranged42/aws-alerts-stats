@@ -1,0 +1,132 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased provisioning times>\nBetween 6:05 AM and 8:17 AM PDT we experienced delayed network provisioning for newly launched instances in a single Availability Zone in the US-EAST-1 Region. Registration of back-end instances and connectivity to existing instances are not affected. The issue have been resolved and the service is operating normally.",
+        "ts": "1526467424.000218",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/cfr.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Elevated error rates>\nBetween 2:35 AM and 2:39 AM PDT, we experienced elevated error rates for requests in the US-EAST-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1526467424.000240",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/cfr.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Elevated error rates>\nBetween 2:35 AM and 2:39 AM PDT, we experienced elevated error rates for requests in the US-EAST-1 Region. The issue has been resolved and the service is operating normally",
+        "ts": "1526467424.000249",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/cfr.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased build error rates>\nWe are investigating increased Build error rates in US-EAST-1 Region.",
+        "ts": "1526470123.000451",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/cfr.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased error rates>\nWe are currently investigating increased error rates in provisioning streaming instances in the US-EAST-1 Region.",
+        "ts": "1526472827.000308",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/cfr.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased build error rates>\nBetween 2:50 AM and 4:55 AM PDT, we experienced elevated Build error rates in the US-EAST-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1526473730.000208",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/cfr.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased error rates>\nWe are currently investigating increased error rates in provisioning streaming instances in the US-EAST-1 Region.",
+        "ts": "1526473730.000225",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/cfr.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased error rates>\nBetween 2:50 AM and 5:06 AM PDT, we experienced increased error rates in provisioning streaming instances. The issue has been resolved now and the service is operating normally.",
+        "ts": "1526473730.000241",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/cfr.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased error rates>\nBetween 2:50 AM and 4:55 AM PDT we experienced increased API error rates in the US-EAST-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1526473730.000253",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/cfr.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased error rates>",
+        "ts": "1526473730.000262",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/cfr.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

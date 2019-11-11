@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Outlook Sync Latencies and Errors>\nWe are investigating increased WorkMail Outlook synchronization latencies and error rates in the US-EAST-1 Region impacting the sending and receiving of new messages or appointments in Outlook clients.",
+        "ts": "1527017024.000516",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased Outlook Sync Latencies and Errors>\nBetween 11:06 AM and 12:09 PM PDT we experienced increased WorkMail Outlook synchronization latencies and error rates in the US-EAST-1 Region, impacting the sending and receiving of new messages or appointments in Outlook clients. The issue has been resolved and the service is operating normally.",
+        "ts": "1527017922.000570",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

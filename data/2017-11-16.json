@@ -1,0 +1,106 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Elevated Faults for CloudWatch Logs APIs>\nWe are investigating increased faults for CloudWatch Logs APIs in the US-EAST-1 Region. Log events and metrics may be delayed. Alarms may transition into \"INSUFFICIENT_DATA\" state if set on delayed metrics.",
+        "ts": "1510840451.000020",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service degradation: Elevated Faults for CloudWatch Logs APIs>\nWe can confirm increased faults for CloudWatch Logs APIs in the US-EAST-1 Region. Log events and metrics are delayed. Alarms may transition into \"INSUFFICIENT_DATA\" state if set on delayed metrics. Customers will experience faults in the CloudWatch Logs Management Console.",
+        "ts": "1510841356.000337",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Elevated API Error Rates>\nWe are currently experiencing elevated error rates for the CodeBuild APIs and Management Console in the US-EAST-1 Region.",
+        "ts": "1510841356.000401",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service degradation: Elevated API Error Rates>\nWe can confirm elevated error rates for the CodeBuild APIs and Management Console in the US-EAST-1 Region.",
+        "ts": "1510842257.000468",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Elevated Faults for CloudWatch Logs APIs>\nBetween 4:00 AM and 6:17 AM PST customers experienced elevated faults when calling CloudWatch Logs APIs in the US-EAST-1 Region. Log events and metrics were delayed, and CloudWatch alarms on delayed metrics transitioned into INSUFFICIENT_DATA state. We have resolved the issue. Delayed metrics and log events are in the process of backfilling in CloudWatch console graphs and for API retrieval. The issue has been resolved and the service is operating normally.",
+        "ts": "1510844051.000198",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Elevated API Error Rates>\nBetween 4:44 and 6:17 PST we experienced elevated error rates for the CodeBuild APIs and Management Console in the US-EAST-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1510844051.000279",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: [Resolved]  Elevated Error Rates in South America>\nBetween 6:04 AM and 6:51 AM PST CloudFront end users in South America may have experienced intermittent error rates. The issue has been resolved and the service is operating normally.",
+        "ts": "1510847666.000491",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: [RESOLVED] Elevated Error Rates>\nBetween 6:04 AM and 6:51 AM PST customers in South America experienced increased errors for loading the AWS Management Console. The issue has been resolved and the Console is operating normally.",
+        "ts": "1510848553.000393",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

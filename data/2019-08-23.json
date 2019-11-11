@@ -1,0 +1,93 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Instance Availability>\nWe are starting to see recovery for instance connectivity issues within a single Availability Zone in the AP-NORTHEAST-1 Region. We continue to work towards recovery for all affected instances.",
+        "ts": "1566544702.002000",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service degradation: Instance Availability>\nRecovery is in progress for instance impairments and degraded EBS volume performance within a single Availability Zone in the AP-NORTHEAST-1 Region. We continue to work towards recovery for all affected instances and EBS volumes.",
+        "ts": "1566551006.002100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Instance Availability>\nWe continue to see recovery for instance connectivity issues within a single Availability Zone in the AP-NORTHEAST-1 Region and are working towards recovery for all affected instances.",
+        "ts": "1566552207.002200",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Instance Availability>\nThe majority of impaired EC2 instances and EBS volumes experiencing degraded performance have now recovered. We continue to work on recovery for the remaining EC2 instances and EBS volumes that are affected by this issue. This issue affects EC2 instances and EBS volumes in a single Availability Zone in the AP-NORTHEAST-1 Region.",
+        "ts": "1566554912.002300",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Instance Availability>\nBeginning at 8:36 PM PDT a small percentage of EC2 servers in a single Availability Zone in the AP-NORTHEAST-1 Region shutdown due to overheating. This resulted in impaired EC2 instances and degraded EBS volume performance for resources in the affected area of the Availability Zone. The overheating was caused by a control system failure that caused multiple, redundant cooling systems to fail in parts of the affected Availability Zone. The chillers were restored at 11:21 PM PDT and...",
+        "ts": "1566560307.002400",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Instance Availability>\nThe majority of instance connectivity issues have now recovered. We continue to work on recovery for the remaining instance connectivity issues within a single Availability Zone in the AP-NORTHEAST-1 Region.",
+        "ts": "1566561206.002500",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Instance Availability>\nBetween August 22 8:36 PM and August 23 6:05 AM PDT, some RDS instances experienced connectivity issues within a single Availability Zone in the AP-NORTHEAST-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1566567505.002600",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

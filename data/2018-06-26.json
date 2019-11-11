@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: [RESOLVED] Increased API Error Rates \/ [RESOLVED] Increased API Error Rates>\n[RESOLVED] Increased API Error Rates\n  7:08 PM PDT Between 5:14 PM and 6:09 PM PDT, we experienced increased error rates for API requests in the US-EAST-1 Region. The issue has been resolved and the service is now operating normally.\n[RESOLVED] Increased API Error Rates\n  7:12 PM PDT Between 5:14 PM and 6:09 PM PDT, we experienced increased error rates for API requests in the US-EAST-1 Region. The issue has been resolved and the service is now operating normally.",
+        "ts": "1530066234.000195",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/cfr.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased API Error Rates>\nBetween 5:14 PM and 6:09 PM PDT, we experienced increased error rates for API requests in the US-EAST-1 Region. The issue has been resolved and the service is now operating normally.",
+        "ts": "1530067136.000262",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/cfr.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/cfr.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

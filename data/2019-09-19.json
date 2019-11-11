@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Invalidation Error Rates>\nWe are investigating elevated error rates for content invalidation. Some customers may also receive \"Rate exceeded\" exceptions when attempting to invalidate content. End-user requests for content from our edge locations are not affected by this issue and are being served normally.",
+        "ts": "1568888312.000200",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased Invalidation Error Rates>\nBetween September 18 10:58 PM and September 19 2:44 AM PDT, we experienced increased API error rates impacting CreateInvalidation API. Some customers may have also received \"Rate exceeded\" exceptions when attempting to invalidate content. End-user requests for content were not affected by this issue, and content from our edge locations were not affected and continue to be served normally. The issue has been resolved and the service is operating normally.",
+        "ts": "1568890111.000300",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

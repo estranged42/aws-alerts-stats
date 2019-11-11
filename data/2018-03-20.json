@@ -1,0 +1,58 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Error Rates for requests to Amazon S3>\nWe are investigating increased error rates for requests made to Amazon S3 in the US-EAST-1 Region.",
+        "ts": "1521555235.000086",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased Error Rates for requests to Amazon S3>\nBetween 5:56 AM and 6:08 AM PDT, customers in the US-EAST-1 Region experienced an increased error rate on requests made to Amazon S3. After that initial impact, customers may have continued to experience a slightly elevated error rate and latencies until 7:02 AM PDT. The issue has been resolved and the service is operating normally.",
+        "ts": "1521556136.000317",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Error Rates for requests to Amazon S3>\nAfter seeing recovery from the event that occurred earlier today, we've seen another increase in error rates on requests made to Amazon S3 in the US-EAST-1 Region.",
+        "ts": "1521560631.000152",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service degradation: VPC Endpoints Error Rates and Timeouts>\nWe are investigating increased error rates and timeouts for requests made via Amazon VPC Endpoints to Amazon S3 or Amazon DynamoDB in the US-EAST-1 Region. We are working on resolving the issue, and while the initial impact has been mitigated, we continue to experience periods of increased error rates and timeouts via Amazon VPC Endpoints. Traffic to Amazon S3 and Amazon DynamoDB via the public endpoints is not affected.",
+        "ts": "1521562444.000540",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Error Rates for requests to Amazon S3>\nWe can confirm that the elevated rate of errors in Amazon S3 are for requests made to the VPC Endpoint. The Amazon S3 regional endpoint for the US-EAST-1 Region is operating normally.",
+        "ts": "1521565132.000420",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased Error Rates for requests to Amazon S3>\nWe have resolved the issue causing increased error rates and timeouts for requests made via Amazon VPC Endpoints to Amazon S3 in the US-EAST-1 Region. Traffic to Amazon S3 via the public endpoints was not affected by this issue. The issue has been resolved and the service is operating normally.",
+        "ts": "1521565132.000441",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] VPC Endpoints Error Rates and Timeouts>\nBetween 5:57 AM and 7:02 AM PDT and between 8:07 AM and 9:12 AM PDT, we experienced intermittent periods of increased error rates and timeouts for requests made via Amazon VPC Endpoints to Amazon S3 and Amazon DynamoDB in the US-EAST-1 Region. Traffic to Amazon S3 and Amazon DynamoDB via the public endpoints, and all other Amazon VPC functionality was not affected by this issue. The issue has been resolved and the service is operating normally.",
+        "ts": "1521565132.000465",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    }
+]

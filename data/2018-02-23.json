@@ -1,0 +1,10 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: [RESOLVED] Elevated Console and API Error Rates>\nBetween 1:31 AM and 2:18 AM PST, we experienced elevated error rates for the CloudFront Management Console and API calls to manage distribution configurations and invalidations. The issue has been resolved and the service is operating normally.",
+        "ts": "1519384435.000108",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    }
+]

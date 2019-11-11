@@ -1,0 +1,18 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Auto Scaling API errors>\nWe are investigating increased error rates for all API calls in the US-EAST-1 Region.",
+        "ts": "1521649526.000473",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased Auto Scaling API errors>\nBetween 8:43 AM and 9:26 AM PDT we experienced increased error rates for API calls in the US-EAST-1 Region. The issue has been resolved and the service is operating normally.",
+        "ts": "1521651599.001006",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    }
+]

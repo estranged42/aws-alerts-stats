@@ -1,0 +1,18 @@
+[
+    {
+        "user": "UDMD1NJ0L",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1569364366.001700",
+        "text": "<@UDMD1NJ0L> has joined the channel",
+        "inviter": "U0SAQHERX"
+    },
+    {
+        "user": "U49PYN268",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1569364569.002000",
+        "text": "<@U49PYN268> has joined the channel",
+        "inviter": "UDMD1NJ0L"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Launch Error Rates>\nWe are investigating increased error rates for new launches in the EU-CENTRAL-1 Region.",
+        "ts": "1522154936.000425",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased Launch Error Rates>\nBetween 05:00 AM PDT and 05:37 AM PDT we experienced increased error rates for instance launches in the EU-CENTRAL-1 Region. Existing instances were unaffected. The issue has been resolved and the service is operating normally.",
+        "ts": "1522156730.000514",
+        "username": "Amazon Web Services Service Status",
+        "bot_id": "B22KL8J4T"
+    }
+]

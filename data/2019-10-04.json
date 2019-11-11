@@ -1,0 +1,223 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Elevated error rates>\nWe are investigating elevated rate of API faults and delays in processing some alarms in the US-EAST-1 Region. We are actively working to resolve the issue.",
+        "ts": "1570239508.003600",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Elevated error rates>\nWe are investigating elevated rate of API faults and delays in processing some alarms in the US-EAST-1 Region. We are actively working to resolve the issue.",
+        "ts": "1570240408.003700",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Elevated error rates>\nWe can confirm that scheduled events are not being delivered via CloudWatch Events in the US-EAST-1 Region. We are actively working to resolve the issue.",
+        "ts": "1570240408.003800",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Elevated error rates>\nWe can confirm that scheduled events are not being delivered via CloudWatch Events in the US-EAST-1 Region. AWS Lambda functions that are invoked in response to CloudWatch events may not be getting invoked successfully. We are actively working to resolve the issue.",
+        "ts": "1570240408.003900",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Elevated Error Rates>\nWe can confirm that scheduled events are not being delivered via CloudWatch Events in the EU-WEST-1 Region. AWS Lambda functions that are invoked in response to CloudWatch events may not be getting invoked successfully. We are actively working to resolve the issue.",
+        "ts": "1570240408.004000",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Elevated Error Rates>\nWe can confirm that scheduled events are not being delivered via CloudWatch Events in the US-WEST-2 Region. We are actively working to resolve the issue.",
+        "ts": "1570240409.004100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Elevated Error Rates>\nWe can confirm that scheduled events are not being delivered via CloudWatch Events in the US-WEST-2. AWS Lambda functions that are invoked in response to CloudWatch events may not be getting invoked successfully. We are actively working to resolve the issue.",
+        "ts": "1570240409.004200",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Elevated Error Rates>\nWe have identified the root cause of the errors in scheduled event creation. We can confirm that AWS Lambda functions that are invoked in response to scheduled CloudWatch events are not getting invoked successfully. We are actively working towards recovery.",
+        "ts": "1570243107.004300",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Elevated Error Rates>\nWe have identified the root cause of the errors in scheduled event creation. We can confirm that AWS Lambda functions that are invoked in response to scheduled CloudWatch events are not getting invoked successfully. We are actively working towards recovery.",
+        "ts": "1570243107.004400",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Elevated Error Rates>\nWe have identified the root cause of the errors in scheduled event creation. We can confirm that AWS Lambda functions that are invoked in response to scheduled CloudWatch events are not getting invoked successfully. We are actively working towards recovery.",
+        "ts": "1570243107.004500",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Elevated Error Rates>\nWe are starting to see recovery of scheduled CloudWatch event delivery. We are also starting to see recovery of AWS Lambda functions that were set up to be invoked from scheduled CloudWatch events.",
+        "ts": "1570247908.004600",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Elevated Error Rates>\nWe are starting to see recovery of scheduled CloudWatch event delivery. We are also starting to see recovery of AWS Lambda functions that were set up to be invoked from scheduled CloudWatch events.",
+        "ts": "1570247909.004700",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Elevated Error Rates>\nWe are starting to see recovery of scheduled CloudWatch event delivery. We are also starting to see recovery of AWS Lambda functions that were set up to be invoked from scheduled CloudWatch events.",
+        "ts": "1570247909.004800",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Elevated Error Rates>\nStarting at 5:27 PM PDT, there were delays delivering scheduled CloudWatch events. Recovery began at 7:31 PM PDT, and by 9:28 PM PDT the backlog of all previously scheduled CloudWatch events was successfully delivered. AWS Lambda functions that were configured to be triggered from scheduled CloudWatch events are now being invoked normally. During this entire duration all other kinds of CloudWatch events and other Lambda function invocations continued to operate normally. All issues are fully...",
+        "ts": "1570251213.004900",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Elevated Error Rates>\nStarting at 5:27 PM PDT, there were delays delivering scheduled CloudWatch events. Recovery began at 8:55 PM PDT, and we are currently working to deliver the backlog of all previously scheduled CloudWatch events. All other kinds of CloudWatch events and other Lambda function invocations continue to operate normally.",
+        "ts": "1570251213.005000",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Elevated Error Rates>\nStarting at 5:27 PM PDT, there were delays delivering scheduled CloudWatch events. Recovery began at 7:36 PM PDT, and by 9:22 PM PDT the backlog of all previously scheduled CloudWatch events was successfully delivered. AWS Lambda functions that were configured to be triggered from scheduled CloudWatch events are now being invoked normally. During this entire duration all other kinds of CloudWatch events and other Lambda function invocations continued to operate normally. All issues are fully...",
+        "ts": "1570251213.005100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Elevated Error Rates>\nStarting at 5:27 PM PDT, there were delays delivering scheduled CloudWatch events. Recovery began at 8:55 PM PDT, and by 10:15 PM PDT the backlog of all previously scheduled CloudWatch events was successfully delivered. AWS Lambda functions that were configured to be triggered from scheduled CloudWatch events are now being invoked normally. During this entire duration all other kinds of CloudWatch events and other Lambda function invocations continued to operate normally. All issues are fully...",
+        "ts": "1570253007.005200",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]

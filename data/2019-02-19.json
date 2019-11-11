@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: [RESOLVED] Increased Create Times and Cluster Unavailability>\nBeginning at 11:54 AM PST some Amazon Aurora clusters experienced increased database create times and cluster unavailability in the AP-SOUTHEAST-2 Region. Elevated create times were resolved at 2:27 PM PST, at which point some existing clusters continued to experience availability issues. As of 5:35 PM PST both issues have been resolved and the service is operating normally. In total, the event impacted a little less than 3% of the Aurora databases in the region.",
+        "ts": "1550636012.001100",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Change Propagation Time>\nWe are investigating increased propagation times of DNS edits to Route 53 DNS servers. Queries to existing DNS records are not affected by this issue and are being answered normally.",
+        "ts": "1550636012.001200",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Informational message: Increased Change Propagation Time>\nWe continue to investigate increased propagation times of DNS edits to the Route 53 DNS servers. This issue will also affect provisioning of services such as EFS, ElasticBeanstalk, CloudFormation, and Amazon MQ. Queries to existing DNS records are not affected by this issue.",
+        "ts": "1550636917.001300",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<http:\/\/status.aws.amazon.com\/|Service is operating normally: [RESOLVED] Increased Change Propagation Time>\nBetween 7:34 PM and 8:45 PM PST we experienced increased propagation times of DNS edits. Queries to existing DNS records were not affected by this issue. The issue has been resolved and the service is operating normally.",
+        "ts": "1550638713.001400",
+        "username": "Amazon Web Services Service Status",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/66f9\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/205a\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B22KL8J4T"
+    }
+]
