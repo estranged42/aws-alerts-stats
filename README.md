@@ -2,7 +2,7 @@
 
 Looking at getting some stats on AWS service alerts.
 
-This is based on a dataset from a slack channel we have subscribed to AWS Service Health alerts.
+This is based on a dataset from a slack channel we have subscribed to AWS Service Health alerts. The slack channel gathers events from an RSS feed: https://status.aws.amazon.com/rss/all.rss
 
 This data set runs from October 2017 through November 2019.
 
